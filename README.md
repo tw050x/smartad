@@ -1,3 +1,8 @@
+> **This repository has moved.** Development continues in
+> [tw050x/smartsuite](https://github.com/tw050x/smartsuite), under
+> [`apps/smartad`](https://github.com/tw050x/smartsuite/tree/master/apps/smartad), with this repository's
+> history. This one is kept for its earlier releases and is no longer updated.
+
 # SmartAd
 
 A Mac app for designing adverts for the web with your own AI. It's one of a family with
